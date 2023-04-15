@@ -1,0 +1,14 @@
+body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'athelas', 'georgia', 'serif' ,'Segoe UI', 'Roboto', 'Oxygen',
+      'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+      sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(5,58,142,1) 0%, rgba(0,111,212,1) 17%, rgba(0,111,212,1) 27%, rgba(0,255,205,1) 100%);
+  }
+  
+  ul li{
+    list-style: none;
+  }
